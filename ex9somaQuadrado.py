@@ -14,5 +14,5 @@ quaNumB = numB * numB
 
 soma = quaNumA + quaNumB
 
-## Saida
 print('Soma dos quadrados:', soma)
+## Fim

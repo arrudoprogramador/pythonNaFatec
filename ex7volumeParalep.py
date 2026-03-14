@@ -11,5 +11,5 @@ largura = float(input('Digite o valor da largura:'))
 
 area = altura * comprimento * largura
 
-## Saida
 print('Area do paralelepipedo:', area,'m')
+## Fim

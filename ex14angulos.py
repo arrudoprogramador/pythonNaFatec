@@ -9,5 +9,5 @@ segundAng = float(input('Digite o valor do segundo angulo:'))
 
 tercAng = 180 - (primAng + segundAng)
 
-## Saida
 print('O terceiro angulo e de:', tercAng)
+## Fim

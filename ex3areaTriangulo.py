@@ -11,5 +11,5 @@ altura = int(input('Digite a altura do triângulo:'))
 ## Processamento
 area = (base * altura)/2
 
-## Saida
 print('A área do triângulo é de:', area)
+## Fim

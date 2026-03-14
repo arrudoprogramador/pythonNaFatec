@@ -10,10 +10,10 @@ for i in range(4):
     
 media = soma/4
 
-## Saida
 if(media >= 6.0):
     print("Aprovado")
 elif(media >= 3.0) and (media < 6.0):
     print("Exame")
 elif(media<3.0):
     print("Retido")
+## Fim

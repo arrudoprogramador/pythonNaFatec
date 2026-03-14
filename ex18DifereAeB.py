@@ -14,5 +14,5 @@ elif(numA < numB):
 elif(numA == numB):
     diferenca = 0
 
-## Saida
 print("A diferença dos números é de:", diferenca)
+## Fim

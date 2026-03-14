@@ -1,6 +1,7 @@
 ## Declaracao de variaveis
 valor: int = 0
 
+## Início
 valor = int(input("Digite um valor inteiro:"))
 
 if(valor != 0) and (valor != 1):
@@ -12,3 +13,4 @@ if(valor != 0) and (valor != 1):
         print("Valor divisível por 3")
 else:
     print("Valor NÃO divisível por 2 e 3")
+## Fim

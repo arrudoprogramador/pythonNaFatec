@@ -14,5 +14,5 @@ elif(numB > numA):
 elif(numB == numA):
     maior = numA
 
-## Saida
 print("O maior número é o:", maior)
+## Fim

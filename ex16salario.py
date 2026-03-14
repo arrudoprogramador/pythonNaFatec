@@ -14,5 +14,5 @@ salarioBruto = horasTraba * valorHora
 salarioLiquido = salarioBruto - porcDesc
 salarioFinal = salarioLiquido + (numDep * 100)
 
-## Saida
 print("O salário final será de: R$", salarioFinal)
+## Fim
